@@ -4,8 +4,8 @@ version: 0.0.7
 author: Matt Carroll <fluttery.io@gmail.com>
 homepage: https://github.com/matthew-carroll/fluttery
 
-environment:
-  sdk: ^1.19
+ environment:
+  sdk: ">=1.24.3 <3.0.0"
 
 dependencies:
   flutter:
